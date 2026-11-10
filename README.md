@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Simon Yersin
 
-<!--
-**yersim/yersim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computational microbiologist and bioinformatician based in Lausanne, Switzerland. I analyse metagenomic, 16S and whole-genome sequencing data from large paediatric cohorts, mainly on gut microbiome and children undernutrition.
 
-Here are some ideas to get you started:
+## What I work with
+-- **Languages and tools:** R, Bash (advanced); Python, Snakemake, C++ (basic)
+- **Methods:** shotgun metagenomics, strain tracking, AMR gene profiling, 16S amplicon analysis, differential abundance, regression modelling
+- **Environment:** HPC clusters, conda, Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- [Satellite_project](https://github.com/yersim/Satellite_project): code for our *Gut Microbes* (2026) paper on strain-level translocation of oral bacteria in stunted children
+- [Pastobiome](https://github.com/yersim/Pastobiome): gut microbiota of agropastoral children in Ethiopia (*Sci Rep*, 2023)
+- Lab pipeline: [shotgun metagenomics workflow](https://github.com/VonaeschLabUNIL/LAB_BIOINFO_SCRIPTS/tree/main/IN_HUMANS/METAGENOMIC) (VonaeschLabUNIL)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/simon-yersin-050504177/) · [ORCID](https://orcid.org/0000-0002-4694-2234) · simon.yersin@gmail.com
