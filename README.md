@@ -10,7 +10,7 @@ I'm Simon, a computational microbiologist and bioinformatician currently based i
 ## Selected work
 - [Satellite_project](https://github.com/yersim/Satellite_project): code for our *Gut Microbes* (2026) paper on strain-level translocation of oral bacteria in stunted children
 - [Pastobiome](https://github.com/yersim/Pastobiome): gut microbiota of agropastoral children in Ethiopia (*Sci Rep*, 2023)
-- Lab pipeline: [shotgun metagenomics workflow](https://github.com/VonaeschLabUNIL/LAB_BIOINFO_SCRIPTS/tree/main/IN_HUMANS/METAGENOMIC) (VonaeschLabUNIL)
+- Lab pipeline: [shotgun metagenomics workflow](https://github.com/VonaeschLabUNIL/LAB_BIOINFO_SCRIPTS/tree/main/IN_HUMANS/METAGENOMIC) (VonaeschLabUNIL) - built and maintained reproducible workflows on HPC cluster
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/simon-yersin-050504177/) · [ORCID](https://orcid.org/0000-0002-4694-2234) · simon.yersin@gmail.com
