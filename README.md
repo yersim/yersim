@@ -1,6 +1,6 @@
 ## Hi there, welcome on my GitHub
 
-I'm Simon, a computational microbiologist and bioinformatician based in Lausanne, Switzerland. I hold a PhD in Life Science from the University of Lausanne. I analyse metagenomic, 16S and whole-genome sequencing data from large paediatric cohorts, mainly on gut microbiome and children undernutrition.
+I'm Simon, a computational microbiologist and bioinformatician currently based in Lausanne, Switzerland working in the group of Prof. Pascale Vonaesch. I hold a PhD in Life Science from the University of Lausanne. I analyse metagenomic, 16S and whole-genome sequencing data from large paediatric cohorts, mainly on gut microbiome and children undernutrition.
 
 ## What I work with
 - **Languages and tools:** R, Bash (advanced); Python, Snakemake, C++ (basic)
