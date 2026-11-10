@@ -1,9 +1,9 @@
 ## Hi, I'm Simon Yersin
 
-I'm a computational microbiologist and bioinformatician based in Lausanne, Switzerland. I analyse metagenomic, 16S and whole-genome sequencing data from large paediatric cohorts, mainly on gut microbiome and children undernutrition.
+I'm a computational microbiologist and bioinformatician based in Lausanne, Switzerland. I hold a PhD in Life Science from the University of Lausanne. I analyse metagenomic, 16S and whole-genome sequencing data from large paediatric cohorts, mainly on gut microbiome and children undernutrition.
 
 ## What I work with
--- **Languages and tools:** R, Bash (advanced); Python, Snakemake, C++ (basic)
+- **Languages and tools:** R, Bash (advanced); Python, Snakemake, C++ (basic)
 - **Methods:** shotgun metagenomics, strain tracking, AMR gene profiling, 16S amplicon analysis, differential abundance, regression modelling
 - **Environment:** HPC clusters, conda, Git/GitHub
 
