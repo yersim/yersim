@@ -14,3 +14,6 @@ I'm Simon, a computational microbiologist and bioinformatician currently based i
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/simon-yersin-050504177/) · [ORCID](https://orcid.org/0000-0002-4694-2234) · simon.yersin@gmail.com
+
+## Looking for
+- Open to postdoc, data analyst and epidemiologist roles in Goteborg, Sweden, from summer 2027 
